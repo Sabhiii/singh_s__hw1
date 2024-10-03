@@ -1,4 +1,4 @@
-### About Me
+# About Us
 # Name is Sukhdeep Singh
 
 ## Origin 
@@ -13,8 +13,8 @@ New Delhi,India
 
 ![This is an tiger face.](/images/download.jpeg )
 
-## About Me
-## Kingsley Watson
+
+# Kingsley Watson
 
 ## Origin
 London, Canada
